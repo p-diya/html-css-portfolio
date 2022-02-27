@@ -1,1 +1,3 @@
-# portfolio-html-css-js
+# portfolio-html-css
+
+A simple portoflio in HTML and CSS
