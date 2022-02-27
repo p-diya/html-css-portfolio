@@ -1,6 +1,6 @@
 # portfolio-html-css
 
-A responsive portoflio in HTML and CSS 
+A responsive portfolio in HTML and CSS 
 <br>
 <br>
 Link to Portfolio
