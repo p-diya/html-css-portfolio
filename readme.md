@@ -1,4 +1,4 @@
-# HTML and CSS Portfolio
+# Portfolio
 
 A responsive portfolio in HTML and CSS 
 <br>
